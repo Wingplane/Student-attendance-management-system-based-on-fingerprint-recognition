@@ -1,0 +1,12 @@
+d:\文档\visual studio 2015\Projects\myProject\myProject\bin\Debug\myProject.exe.config
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\myProject.exe
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\bin\Debug\myProject.pdb
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.Machine.resources
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.Manager.resources
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.Properties.Resources.resources
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.exe
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.pdb
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\Interop.IRISINGFRAMEWORKLib.dll
+D:\文档\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csproj.ResolveComReference.cache
