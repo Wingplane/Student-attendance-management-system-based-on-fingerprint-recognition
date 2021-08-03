@@ -4,4 +4,4 @@
 ## Student attendance management system based on fingerprint recognition
 This project is the content of the curriculum design for the fourth-year information system design of the university. The project uses C# to edit and produce two upper computers (student side and classroom side). The upper computer communicates with the fingerprint machine through the serial port (get the fingerprint number in plain text), The data is stored in a SQL database.
 
-# [演示视频](https://www.bilibili.com/video/BV1BZ4y1G7Gy/)
+### [演示视频(Demo video)](https://www.bilibili.com/video/BV1BZ4y1G7Gy/)
